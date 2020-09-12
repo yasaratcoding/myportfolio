@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name": "Yasar Arafath E",
+    "occupation": "ReactJS Developer ",
+    "description": "Full Stack React Developer by Day, && Freelancer by Night. ",
+    "image": "yasar.jpg",
+    "bio": "My name is Yasar Arafath E, I'm a Full Stack ReactJS Developer. Currently looking for an opportunity to become a full stack developer ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "yasaronnet@gmail.com",
+    "phone":"+91 9566731788",
+    "address": {
+      "street": "Virugambakkam,",
+      "city": "Chennai,",
+      "state": "Tamilnadu",
+      "zip": "India -600020."
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1iHaDz1BaYTr_JV0GmBK-_WP9ngiGIbSR/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/yasar.arafath.100046/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/yasar-arafath-1694b5157/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ya._.sar/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/yasaratcoding",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "still improving......",
+    "education": [
+      {
+        "school": "Aalim muhammed salegh college of engineering,",
+        "degree": "B.E-Electronics and communication engineering",
+        "graduated": "2016-2020",
+        "description": "Not yet graduated"
+      },
+      {
+        "school": "National academy matriculation and higher secondary school",
+        "degree": "Higher secondary(HSC)-computer science",
+        "graduated": "April 2016",
+        "description": "Graduated with 74%"
+      },
+      {
+        "school": "National academy matriculation and higher secondary school",
+        "degree": "•Secondary school(SSLC)",
+        "graduated": "April 2014",
+        "description": "Graduated with 92%"
+      }
+    ],
+    "work": [
+      {
+        "company": "Clever Programmer",
+        "title": "Team Member && React Specialist",
+        "years": "April 2020 - Present",
+        "description": "Teaching ReactJS to thousands of students."
+      },
+      {
+        "company": "Lindar Media",
+        "title": "Software Engineer",
+        "years": "Nov 2019 - April 2020",
+        "description": "Building MrQ, a gambling website."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+   
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Firebase",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+     
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "He is such a good programmer",
+        "user": "Mohamed"
+      },
+      {
+        "text": "That yasar must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Mohideen"
+      }
+    ]
+  }
+}
